@@ -1,0 +1,32 @@
+.splash-view {
+  background-image: url("../../assets/girl.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.9;
+}
+
+.splash-view .heading {
+  position: absolute;
+  left: 0;
+  top: 30%;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  font-size: 40px;
+  font-family: "Bebas Neue";
+}
+
+.splash-view .content {
+  position: absolute;
+  left: 0;
+  top: 43%;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 0;
+  font-family: "Roboto";
+  font-weight: 500;
+}

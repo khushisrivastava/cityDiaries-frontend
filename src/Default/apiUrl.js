@@ -1,0 +1,1 @@
+export const apiUrl = "https://city-diaries-backend.herokuapp.com";
